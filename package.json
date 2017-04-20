@@ -1,0 +1,7 @@
+{
+  "require-dev": [
+    "webpack": "of course",
+    "babel": "because why write regular javascript",
+    "react": "because it's fancy"
+  ]
+}
